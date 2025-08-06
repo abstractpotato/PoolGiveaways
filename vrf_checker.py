@@ -1,5 +1,4 @@
 import random
-from hashlib import sha256
 from json import loads
 
 file_text = open(str(input("enter snapshot filename: "))).read()
