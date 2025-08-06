@@ -1,0 +1,17 @@
+{
+  "filters": {
+    "lovelace": {
+      "min": 100000000
+    },
+    "pools": {
+      "min_epochs": 10,
+      "pool_ids": [
+        "pool1j742gcsul7u8c05rsqmkgpkvj5qadj0pew69nctu6crqy9wjjn4"
+      ]
+    }
+  },
+  "project_id": "f4eacf7b304fc9c7264e5ea9f25449db20a59ab104df627c154023ecd932790f",
+  "snapshot_id": "c2d6b18db5c19c69c92497bfee9bf85141c288b469621bb054223165719c5b1c",
+  "status": 1,
+  "timestamp": 1754537270
+}
