@@ -1,0 +1,290 @@
+[
+  {
+    "data": {
+      "active_epoch_no": 573,
+      "lovelace": 5827636000,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uyq678azw3ky8krpfprdfwz5cnntq67qthwwv83gpqc0fnsnd4j4g"
+  },
+  {
+    "data": {
+      "active_epoch_no": 559,
+      "lovelace": 131568321,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uyp3gypht3ls9vkpj8f82rnh0akjd8yfukpkflgvf4s0gnq69lvwq"
+  },
+  {
+    "data": {
+      "active_epoch_no": 559,
+      "lovelace": 181278040,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uy84vnvl76520gutm6p09pyw9rk20xscp2greqw9capaflsseapj0"
+  },
+  {
+    "data": {
+      "active_epoch_no": 562,
+      "lovelace": 210785453,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uyf7m67e8txf33wpt4xzl34d84aqfgmndth2am2zkznmvcsz09z5d"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 222583350,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uytnusqapl88n0lcv6x6x7mchlhj69z2kwuy9lc9p05wjtqsqx5gq"
+  },
+  {
+    "data": {
+      "active_epoch_no": 556,
+      "lovelace": 262500712,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uyvnu08a0skc9dcyt3nnuul68xakwv2xndw4vzadcppf7zq5eep6j"
+  },
+  {
+    "data": {
+      "active_epoch_no": 563,
+      "lovelace": 198913210,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uy0zjwxxspucjx73a68jqlkrvf2js86z4xr2pg6ftma422g28kurf"
+  },
+  {
+    "data": {
+      "active_epoch_no": 569,
+      "lovelace": 121293868,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uy0hm7ym6707saf6tljhgumvmhykkxy5snzxu3kfn5s7ygsq6vvfr"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 124770205,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uy3drkz6lshhxk45skcgn3cgszpgwqjkatg5z3lywqqj52sx7fllq"
+  },
+  {
+    "data": {
+      "active_epoch_no": 564,
+      "lovelace": 129256766,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uy4gf0lgv02f98k7cwk523kvd684e7kg3me9nt55j9yrusgar30wx"
+  },
+  {
+    "data": {
+      "active_epoch_no": 556,
+      "lovelace": 1013374062,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uycyjpql0d0n6ntqhy9ffspvtcugkr7836ah6jcheaqsetcfneedt"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 105292409,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uye5qdg76qkt450gnf6p9smqtykjc4z7lld4psdh3cxlg8cxc68v5"
+  },
+  {
+    "data": {
+      "active_epoch_no": 569,
+      "lovelace": 182781216,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u98cwxdjmtja47seh2ler7m4jvcevn7gpptpeynr27jwfcqa09zrf"
+  },
+  {
+    "data": {
+      "active_epoch_no": 574,
+      "lovelace": 1004888674,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u92ypw0pm4jfvjal3regcrlmtw8pj57ccsl9pmd6jw5x02gqjf0pa"
+  },
+  {
+    "data": {
+      "active_epoch_no": 567,
+      "lovelace": 259754078,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u9vysha6fvru5e793qq75ss0s68wy8wy0h7csl46a0dv5fqc9atea"
+  },
+  {
+    "data": {
+      "active_epoch_no": 559,
+      "lovelace": 676291105,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u9nmr97er9y8eky3ypt9qs7j547az86rkspeun7lpkzr5vsatfjm7"
+  },
+  {
+    "data": {
+      "active_epoch_no": 564,
+      "lovelace": 105104199,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u9mhmqm4xhp7krxd96qpnct69d9awe2l7d9xhlgh6syjvhcjwe3z8"
+  },
+  {
+    "data": {
+      "active_epoch_no": 538,
+      "lovelace": 1417202509,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u9a9njpw08hk0ygygth32nma3xte4gzfvz9gkhdzdvhvcycu54lmt"
+  },
+  {
+    "data": {
+      "active_epoch_no": 563,
+      "lovelace": 222747360,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u978t34vnnmmpec2lqlqllk4tgqdgh27hfzz982qfqjy29gq8lz29"
+  },
+  {
+    "data": {
+      "active_epoch_no": 561,
+      "lovelace": 583299745,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u9l37wt3fpx9zmd98vsqhttwr0x602a3pe6mkws6qf2whpsqn8g3k"
+  },
+  {
+    "data": {
+      "active_epoch_no": 567,
+      "lovelace": 121853138,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u9lejk64xcw6kuxn0r69y87wg5ure40qwx2y627u59cuxjqfkqs76"
+  },
+  {
+    "data": {
+      "active_epoch_no": 561,
+      "lovelace": 356380627,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uxpfg9365rhkl2397qfnkjzxg8y2qjpm03p0v5dqzuv877c0h3u4f"
+  },
+  {
+    "data": {
+      "active_epoch_no": 564,
+      "lovelace": 190945983,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uxzp7pdx99thd5yvpjvxz3x5eju7ss49cdfssj69dteegyg66z4yd"
+  },
+  {
+    "data": {
+      "active_epoch_no": 568,
+      "lovelace": 105113133,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uxrh79m8wpl4q0fjzeg3xwxjl4uykn65ltz8jelr37v26yglurhfn"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 1039099916,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uxd85rmjudlya3ezlsmxrkcac0hvyelss8wyj2s7gzfcyag289d52"
+  },
+  {
+    "data": {
+      "active_epoch_no": 567,
+      "lovelace": 120077750,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uxwyhh8cwxefv8pmftehf3j86v2slexxtn584prw4c2e3ms06c72m"
+  },
+  {
+    "data": {
+      "active_epoch_no": 569,
+      "lovelace": 226387993,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1ux6tjlml4kxq4ywksp9mhll64g354taqn5aqndaxgswc4vgulmrc4"
+  },
+  {
+    "data": {
+      "active_epoch_no": 559,
+      "lovelace": 259346158,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uxauh8rm2v2uapudlah3rjfy3q4vv7hp2f2hdpwa5t4y4ngysrp65"
+  },
+  {
+    "data": {
+      "active_epoch_no": 567,
+      "lovelace": 223242338,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1ux7x694yf0zrtsg7mnhm9wsaet7h3m9u0sc7qxl7r2anm3qax7qs2"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 488836220,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1uxl4k3zpkrqwstmeew7lccd3ldlr8sn8hucfe2fu26zh4wgxkq946"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 393203825,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u8glxwgap7xdztqctc07rhdg30ldr7sr59vla5vpjpgcpzqlcw3de"
+  },
+  {
+    "data": {
+      "active_epoch_no": 574,
+      "lovelace": 101242055,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u82nt0k39hnmut4e9zn0ryvt0uhvfrjurkhhrj5e7chhnwcfjp537"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 1159093703,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u8tcwmgfjk2h35lth9ylvysamme2mt0rlsw47k0mahqqmks8ep3dj"
+  },
+  {
+    "data": {
+      "active_epoch_no": 574,
+      "lovelace": 451259728,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u8dc4e2jkcq0w2fw42mhmk8r66yxrqexxl5qp5u0yderecg4nqmkm"
+  },
+  {
+    "data": {
+      "active_epoch_no": 558,
+      "lovelace": 862313256,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u8wg6rcld6aj5rqtkf3zv2gj7myxjmcqp7f3plfjfm5fksc9e8ruk"
+  },
+  {
+    "data": {
+      "active_epoch_no": 567,
+      "lovelace": 116000104,
+      "pool_id": "pool1ksye6zwlzaytspldngc3966aj79zkjvmkykydu2txay75c0krfp"
+    },
+    "stake_addr": "stake1u8s8lfcjx75vthxlvrpm0y4py0cvqepg6ep8ctur5ql2tyc9ueuqw"
+  }
+]
